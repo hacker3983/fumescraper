@@ -30,7 +30,7 @@ python3 main.py
 ```
 
 # Screenshots
-![screenshot 1](Screenshots/menu.png)
+![screenshot 1](screenshots/menu.png)
 
-![screenshot 2](./Screenshots/proof.png)
+![screenshot 2](screenshots/proof.png)
 
